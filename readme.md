@@ -85,8 +85,8 @@ Además, he consultado los siguientes artículos  para complementar el desarroll
 Clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/moises60/Sistema_de_Recomendación_de_peliculas_con_Autoencoder.git
-cd Sistema_de_Recomendación_de_peliculas_con_Autoencoder
+git clone https://github.com/moises60/Sistema_de_Recomendacion_de_peliculas_con_Autoencoder.git
+cd Sistema_de_Recomendacion_de_peliculas_con_Autoencoder
 ```
 
 ### **Entrenamiento del Modelo**
