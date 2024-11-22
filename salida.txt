@@ -1,0 +1,122 @@
+Usando dispositivo: cuda
+Valoraciones cargadas exitosamente.
+Número de usuarios: 6040
+Número de películas: 3706
+MovieIDs mapeados a índices consecutivos.
+Matriz de usuarios vs películas creada.
+Matriz convertida a tensor de PyTorch.
+Conjuntos de entrenamiento y prueba creados.
+Autoencoder SAE definido.
+Función de pérdida y optimizador configurados.
+DataLoaders para entrenamiento y prueba creados.
+Inicio del entrenamiento del SAE...
+Época: 1, Pérdida de Entrenamiento: 7.5852, Pérdida de Prueba: 3.6339
+Época: 2, Pérdida de Entrenamiento: 3.1185, Pérdida de Prueba: 3.2653
+Época: 3, Pérdida de Entrenamiento: 2.5183, Pérdida de Prueba: 2.2161
+Época: 4, Pérdida de Entrenamiento: 2.0659, Pérdida de Prueba: 1.9805
+Época: 5, Pérdida de Entrenamiento: 1.9086, Pérdida de Prueba: 1.8508
+Época: 6, Pérdida de Entrenamiento: 1.7227, Pérdida de Prueba: 2.0142
+Época: 7, Pérdida de Entrenamiento: 1.6475, Pérdida de Prueba: 1.9170
+Época: 8, Pérdida de Entrenamiento: 1.6087, Pérdida de Prueba: 2.5566
+Época: 9, Pérdida de Entrenamiento: 1.4403, Pérdida de Prueba: 2.1990
+Época: 10, Pérdida de Entrenamiento: 1.3514, Pérdida de Prueba: 1.8666
+Época: 11, Pérdida de Entrenamiento: 1.2443, Pérdida de Prueba: 1.6662
+Época: 12, Pérdida de Entrenamiento: 1.1868, Pérdida de Prueba: 1.4183
+Época: 13, Pérdida de Entrenamiento: 1.1525, Pérdida de Prueba: 1.4317
+Época: 14, Pérdida de Entrenamiento: 1.0707, Pérdida de Prueba: 1.2465
+Época: 15, Pérdida de Entrenamiento: 1.0351, Pérdida de Prueba: 1.2922
+Época: 16, Pérdida de Entrenamiento: 1.0088, Pérdida de Prueba: 1.0939
+Época: 17, Pérdida de Entrenamiento: 0.9862, Pérdida de Prueba: 1.0586
+Época: 18, Pérdida de Entrenamiento: 0.9510, Pérdida de Prueba: 1.0539
+Época: 19, Pérdida de Entrenamiento: 0.9468, Pérdida de Prueba: 1.0448
+Época: 20, Pérdida de Entrenamiento: 0.9370, Pérdida de Prueba: 0.9939
+Época: 21, Pérdida de Entrenamiento: 0.9280, Pérdida de Prueba: 1.0060
+Época: 22, Pérdida de Entrenamiento: 0.9231, Pérdida de Prueba: 0.9960
+Época: 23, Pérdida de Entrenamiento: 0.9246, Pérdida de Prueba: 0.9874
+Época: 24, Pérdida de Entrenamiento: 0.9178, Pérdida de Prueba: 0.9929
+Época: 25, Pérdida de Entrenamiento: 0.9116, Pérdida de Prueba: 0.9994
+Época: 26, Pérdida de Entrenamiento: 0.9104, Pérdida de Prueba: 0.9815
+Época: 27, Pérdida de Entrenamiento: 0.9020, Pérdida de Prueba: 0.9844
+Época: 28, Pérdida de Entrenamiento: 0.8989, Pérdida de Prueba: 0.9917
+Época: 29, Pérdida de Entrenamiento: 0.9009, Pérdida de Prueba: 0.9899
+Época: 30, Pérdida de Entrenamiento: 0.8982, Pérdida de Prueba: 0.9784
+Época: 31, Pérdida de Entrenamiento: 0.8952, Pérdida de Prueba: 0.9717
+Época: 32, Pérdida de Entrenamiento: 0.8973, Pérdida de Prueba: 0.9798
+Época: 33, Pérdida de Entrenamiento: 0.8960, Pérdida de Prueba: 0.9748
+Época: 34, Pérdida de Entrenamiento: 0.8912, Pérdida de Prueba: 0.9683
+Época: 35, Pérdida de Entrenamiento: 0.8928, Pérdida de Prueba: 0.9818
+Época: 36, Pérdida de Entrenamiento: 0.8810, Pérdida de Prueba: 0.9674
+Época: 37, Pérdida de Entrenamiento: 0.8865, Pérdida de Prueba: 0.9771
+Época: 38, Pérdida de Entrenamiento: 0.8868, Pérdida de Prueba: 0.9826
+Época: 39, Pérdida de Entrenamiento: 0.8828, Pérdida de Prueba: 0.9788
+Época: 40, Pérdida de Entrenamiento: 0.8827, Pérdida de Prueba: 0.9558
+Época: 41, Pérdida de Entrenamiento: 0.8784, Pérdida de Prueba: 0.9566
+Época: 42, Pérdida de Entrenamiento: 0.8800, Pérdida de Prueba: 0.9643
+Época: 43, Pérdida de Entrenamiento: 0.8755, Pérdida de Prueba: 0.9774
+Época: 44, Pérdida de Entrenamiento: 0.8732, Pérdida de Prueba: 0.9609
+Época: 45, Pérdida de Entrenamiento: 0.8750, Pérdida de Prueba: 0.9589
+Época: 46, Pérdida de Entrenamiento: 0.8735, Pérdida de Prueba: 0.9665
+Época: 47, Pérdida de Entrenamiento: 0.8667, Pérdida de Prueba: 0.9675
+Época: 48, Pérdida de Entrenamiento: 0.8735, Pérdida de Prueba: 0.9618
+Época: 49, Pérdida de Entrenamiento: 0.8616, Pérdida de Prueba: 0.9621
+Época: 50, Pérdida de Entrenamiento: 0.8632, Pérdida de Prueba: 0.9649
+Época: 51, Pérdida de Entrenamiento: 0.8614, Pérdida de Prueba: 0.9590
+Época: 52, Pérdida de Entrenamiento: 0.8618, Pérdida de Prueba: 0.9571
+Época: 53, Pérdida de Entrenamiento: 0.8638, Pérdida de Prueba: 0.9450
+Época: 54, Pérdida de Entrenamiento: 0.8623, Pérdida de Prueba: 0.9606
+Época: 55, Pérdida de Entrenamiento: 0.8593, Pérdida de Prueba: 0.9576
+Época: 56, Pérdida de Entrenamiento: 0.8557, Pérdida de Prueba: 0.9399
+Época: 57, Pérdida de Entrenamiento: 0.8559, Pérdida de Prueba: 0.9556
+Época: 58, Pérdida de Entrenamiento: 0.8540, Pérdida de Prueba: 0.9464
+Época: 59, Pérdida de Entrenamiento: 0.8509, Pérdida de Prueba: 0.9439
+Época: 60, Pérdida de Entrenamiento: 0.8547, Pérdida de Prueba: 0.9448
+Época: 61, Pérdida de Entrenamiento: 0.8540, Pérdida de Prueba: 0.9450
+Época: 62, Pérdida de Entrenamiento: 0.8526, Pérdida de Prueba: 0.9441
+Época: 63, Pérdida de Entrenamiento: 0.8468, Pérdida de Prueba: 0.9306
+Época: 64, Pérdida de Entrenamiento: 0.8464, Pérdida de Prueba: 0.9458
+Época: 65, Pérdida de Entrenamiento: 0.8434, Pérdida de Prueba: 0.9380
+Época: 66, Pérdida de Entrenamiento: 0.8526, Pérdida de Prueba: 0.9344
+Época: 67, Pérdida de Entrenamiento: 0.8521, Pérdida de Prueba: 0.9358
+Época: 68, Pérdida de Entrenamiento: 0.8510, Pérdida de Prueba: 0.9352
+Época: 69, Pérdida de Entrenamiento: 0.8444, Pérdida de Prueba: 0.9273
+Época: 70, Pérdida de Entrenamiento: 0.8483, Pérdida de Prueba: 0.9272
+Entrenamiento completado.
+Gráfico de pérdida generado y guardado.
+Modelo guardado en models/trained_sae.pth
+Archivo 'movies.dat' cargado exitosamente.
+Películas filtradas según el conjunto de datos.
+
+Por favor, califica las siguientes películas (1-5 estrellas). Si no has visto la película, presiona Enter para omitir.
+1. Minnie and Moskowitz (1971): 4
+2. Truce, The (1996): 4
+3. Final Conflict, The (a.k.a. Omen III: The Final Conflict) (1981): 2
+4. Citizen Ruth (1996): 4
+5. Babes in Toyland (1961): 3
+6. Life (1999): 4
+7. Natural Born Killers (1994): 4
+8. Broadcast News (1987): 2
+9. Carnosaur 2 (1995): 1
+10. Alan Smithee Film: Burn Hollywood Burn, An (1997): 1
+11. Out of the Past (1947): 5
+12. Love & Sex (2000): 1
+13. Tex (1982): 4
+14. Romper Stomper (1992): 4
+15. Dead Again (1991): 4                     
+16. Last Temptation of Christ, The (1988): 5
+17. Short Cuts (1993): 4
+18. Nightmare on Elm Street 5: The Dream Child, A (1989): 2
+19. Red Firecracker, Green Firecracker (1994): 4
+20. Pleasantville (1998): 4
+Valoraciones del usuario obtenidas.
+
+Las siguientes películas son recomendadas para ti:
+- Usual Suspects, The (1995) (Crime|Thriller)
+- Cold Fever (Á köldum klaka) (1994) (Comedy|Drama)
+- Institute Benjamenta, or This Dream People Call Human Life (1995) (Drama)
+- Close Shave, A (1995) (Animation|Comedy|Thriller)
+- Godfather, The (1972) (Action|Crime|Drama)
+- Apple, The (Sib) (1998) (Drama)
+- Sanjuro (1962) (Action|Adventure)
+- Return with Honor (1998) (Documentary)
+- I Am Cuba (Soy Cuba/Ya Kuba) (1964) (Drama)
+- Song of Freedom (1936) (Drama)
